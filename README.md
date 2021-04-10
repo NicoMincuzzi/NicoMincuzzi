@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📫 How to reach me: ...
+- 📫 How to reach me: [Email](nicolamincuzzi88@gmail.com)
 
 
-![My GitHub](https://github-readme-stats.vercel.app/api?username=NicoMincuzzi&count_private=true&show_icons=true&theme=dark&include_all_commits=true&line_height=20) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMincuzzi&layout=compact&theme=dark)
+![My GitHub](https://github-readme-stats.vercel.app/api?username=NicoMincuzzi&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_title=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMincuzzi&layout=compact&theme=dark)
