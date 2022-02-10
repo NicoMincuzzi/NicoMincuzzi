@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Nicola
 
 I am a passionate about the entire software life cycle, who mainly focuses on
--tests
+- tests
 - product quality
 - fulfillment of business market needs
 
