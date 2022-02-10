@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Nicola
 
+I am a passionate about the entire software life cycle, who mainly focuses on tests, product quality and fulfillment of business market needs. Currently, I am working on scalable architectures, microservices, and event-driven architectures.I believe teamwork is an excellent opportunity for individual and professional growth as it allows for a constant constructive dialogue between parties.
+
 <!--
 **NicoMincuzzi/NicoMincuzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
