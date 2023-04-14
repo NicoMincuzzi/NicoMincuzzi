@@ -16,4 +16,6 @@ Feel free to explore my repositories and get in touch with me if you have any qu
 
 <h2>📈 &nbsp;Some Github Stats</h2>
 
-![My GitHub](https://github-readme-stats.vercel.app/api?username=NicoMincuzzi&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_title=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicoMincuzzi&show_icons=true&locale=en&layout=compact&theme=dark" alt="NicoMincuzzi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NicoMincuzzi&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_title=true" alt="NicoMincuzzi" /></p>
