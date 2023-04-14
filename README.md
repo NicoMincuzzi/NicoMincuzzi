@@ -5,7 +5,9 @@ As a backend developer, I primarily focus on the server-side of applications, bu
 
 Feel free to explore my repositories and get in touch with me if you have any questions or suggestions. Thanks for visiting!
 
-- 📫 How to reach me: [Email](mailto:nicolamincuzzi88@gmail.com)
+- 📫 How to reach me: [nicolamincuzzi88@gmail.com](mailto:nicolamincuzzi88@gmail.com)
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/nicola-mincuzzi-4414b1129/](https://www.linkedin.com/in/nicola-mincuzzi-4414b1129/)
 
 <h2>📈 &nbsp;Some Github Stats</h2>
 
