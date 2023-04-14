@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nicola Mincuzzi and welcome to my GitHub page!</h1>
+<h1 align="center">Hi 👋, I'm Nicola and welcome to my GitHub page!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NicoMincuzzi&label=Profile%20views&color=0e75b6&style=flat" alt="liron navon" /> </p>
 
